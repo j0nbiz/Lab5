@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="lbl_instruct">Press a button to start an activity.</string>
+    <string name="lbl_result"></string>
+    <string name="btn_act2">Activity 2</string>
+    <string name="btn_act3">Activity 3</string>
+    <string name="btn_web">Web Browser</string>
+    <string name="btn_geo">Geo Search</string>
+    <string name="btn_act2_ret1">Activity 2: One, 1, uno, un/une</string>
+    <string name="btn_act2_ret2">Activity 2: Two, 2 , due, deux</string>
+    <string name="btn_act3_ret1">Activity 4</string>
+    <string name="btn_act3_ret2">Activity 5</string>
+    <string name="btn_act3_ret3">Return</string>
+    <string name="err_missing_intent">Error: Missing intent!</string>
+    <string name="err_missing_data">Error: Missing data!</string>
+    <string name="err_missing_extra">Error: Missing extra!</string>
+    <string name="err_unknown_req">Error: Unknown resquest!</string>
+    <string name="err_cancel">Error: Cancel returned from child Activity!</string>
+    <string name="btn_return">Return Text Input</string>
+    <string name="lbl_act5_instruct">Hit the back button!</string>
+</resources>
